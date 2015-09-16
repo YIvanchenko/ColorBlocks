@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorBlocksCore", "ColorBlocksCore\ColorBlocksCore.csproj", "{1CB284B4-0CA7-4DD3-A300-E60D422E171C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorBlocksTests", "ColorBlocksTests\ColorBlocksTests.csproj", "{E4A1F880-E1CE-46AD-9442-A31E226CDF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB284B4-0CA7-4DD3-A300-E60D422E171C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB284B4-0CA7-4DD3-A300-E60D422E171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB284B4-0CA7-4DD3-A300-E60D422E171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB284B4-0CA7-4DD3-A300-E60D422E171C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A1F880-E1CE-46AD-9442-A31E226CDF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A1F880-E1CE-46AD-9442-A31E226CDF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A1F880-E1CE-46AD-9442-A31E226CDF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A1F880-E1CE-46AD-9442-A31E226CDF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
